@@ -29,7 +29,7 @@ The graph below shows the chain reaction:
 2.  **Orange:** The synapse conductance rises smoothly (Alpha Function).
 3.  **Green:** Neuron B reacts with a sub-threshold potential (EPSP).
 
-![Synaptic Transmission Result](synapse_result.png)
+![Synaptic Transmission Result](myplot.png)
 
 ## Technologies
 * **Python**
